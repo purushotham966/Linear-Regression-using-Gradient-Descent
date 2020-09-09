@@ -1,1 +1,1 @@
-# Linear-Regression-using-Gradient-Descent-Discent
+Linear-Regression-using-Gradient-Descent
